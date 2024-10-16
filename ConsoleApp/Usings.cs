@@ -1,0 +1,11 @@
+﻿global using Microsoft.Extensions.DependencyInjection;
+global using AutoMapper;
+global using Core.Services;
+global using Domain.AutoMapper;
+global using Domain.Interfaces.Repository;
+global using Domain.Interfaces.Services;
+global using Infrastructure.Repositories;
+global using Domain.DTO.Request;
+global using System.Globalization;
+global using System.Text;
+global using Microsoft.Extensions.Configuration;

@@ -1,0 +1,15 @@
+﻿global using Api;
+global using AutoMapper;
+global using Core.Services;
+global using Domain.AutoMapper;
+global using Domain.DTO.Request;
+global using Domain.DTO.Response;
+global using Domain.Exceptions;
+global using Domain.Interfaces.Repository;
+global using Domain.Interfaces.Services;
+global using Infrastructure.Repositories;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.OpenApi.Models;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using System.Globalization;
+global using System.Text;
